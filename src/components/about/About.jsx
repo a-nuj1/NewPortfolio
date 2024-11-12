@@ -8,42 +8,24 @@ const About = () => {
           <h1>ABOUT ME</h1>
           <div className="bar1"></div>
         </div>
+
         <div className="partrightAbout">
           <p>
-            Hi there, This is Piyush Sagar, a Full-stack mobile and web
-            developer with expertise in React Native, React, Node.js, and other
-            JavaScript libraries and frameworks. I have a year of experience,
-            where I contributed to over 5 React Native projects and React Web
-            application Projects. Additionally, I worked on backend projects and
-            successfully deployed mobile applications using fastlane for release
-            testing Testflight and Android builds. My expertise includes
-            Typescript, Javascript, React Native, React, Express, Node, MongoDB,
-            and mobile development tools like xCode, Android Studio, and
-            fastlane and others. I am enthusiastic about the opportunity to
-            collaborate with talented professionals in a dynamic environment and
-            contribute to your projects
-            {/* Hello, My name is Piyush Sagar Currently in 6th semester, pursuing
-            B.Tech in Information technology from Dr. Ram Manohar Lohia Avadh
-            University, My skills includes a decent foundation in C++ and
-            JavasSript from development perpective, I have done many project in
-            React and Node for both Mobile and Web, For computer science
-            fundamentals, I have a decent knowledge about Data Structure &
-            Algorithm, Operating system, Database management system and Object
-            Oriented Technique. I have also practiced coding by solving over
-            500+ problems on various coding platforms like Leetcode, GFG and
-            Hackerrank */}
-            {/* Hello, My name is Piyush Sagar Currently in final year, pursuing
-            B.tech in Information technology from Dr. Ram Manohar Lohia Avadh
-            University, My skills includes a decent foundation in C++ and
-            javascript, from development perpective, i have done many project in
-            React and Node (basically MERN ) for both Mobile and Web and as
-            these are nothing but just Javascript, So, I am well Good in
-            JavaScript Ecosystem. For computer science fundamentals, I have a
-            decent knowledge about Data Structure & Algorithm, Operating system,
-            Database management system and Object Oriented Technique. I have
-            also practiced coding by solving over 500+ problems on various
-            coding platforms like Leetcode, GFG and Hackerrank */}
+            Hey everyone, I'm Anuj Gupta, a passionate Full-Stack Web Developer
+            skilled in modern technologies like React, Node.js, and other
+            JavaScript libraries and frameworks. With over a year of hands-on
+            development experience, I’ve built and contributed to 5+ React web
+            applications as personal and academic projects, focusing on creating
+            effective, user-friendly solutions. I also have a strong foundation
+            in data structures and algorithms and am active on LeetCode, where
+            I’ve achieved a peak rating of 1770 and solved over 900 problems. My
+            expertise includes JavaScript, React, Node.js, Express.js, and
+            MongoDB. Join me on this journey as I bring together technology,
+            creativity, and strategic thinking to build impactful solutions.
+            Let's connect and explore the endless possibilities in tech
+            together!
           </p>
+
           <a
             href="https://drive.google.com/file/d/1yJVxwEG6nNQSUNxRjSYtPsyqLOZ_7bcj/view?usp=sharing"
             target="_blank"

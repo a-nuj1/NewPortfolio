@@ -9,75 +9,52 @@ const Experience = () => {
           <div className="bar1"></div>
         </div>
         <div className="partright">
-          <h2>{"Full-Stack Developer Intern"}</h2>
-          <h3>Hyathi Technology • Sep 2023 - Apr 2024</h3>
-          <h3 className="cw-title">~ 8 Months of Experience</h3>
+          <h2>{"SDE Intern"}</h2>
+          <h3>Bluestock Fintech • Aug 2024 - sep 2024</h3>
+          <h3 className="cw-title">~ 2 Months of Experience</h3>
           <div className="experince-c">
             <h5>
-              🚀 Successfully developed several cross-platform applications
-              using <span className="span_highlight_text">React Native. </span>
-              Implemented
-              <span className="span_highlight_text"> Redux and RTK Query </span>
-              libraries to manage state and handle API calls effectively,
-              resulting in improved performance and smoother UX.
+              🚀 Developed an enhanced version of the company’s web application
+              for stock market analytics, adding new features with{" "}
+              <span className="span_highlight_text">ReactJS</span>,{" "}
+              <span className="span_highlight_text">Tailwind CSS</span>,{" "}
+              <span className="span_highlight_text">Bootstrap</span>, and{" "}
+              <span className="span_highlight_text">JavaScript</span>. Worked
+              closely with backend teams using{" "}
+              <span className="span_highlight_text">Python</span> and{" "}
+              <span className="span_highlight_text">Django</span> for real-time
+              data integration and authentication.
               <br />
               <br />
-              🚀 Skillfully contributed to a cross-platform
-              <span className="span_highlight_text">
-                {" "}
-                Fin-Tech application using RN.{" "}
-              </span>
-              Integrated <span className="span_highlight_text">
-                {" "}
-                Veriff{" "}
+              🚀 Co-led a team of 3 interns in translating{" "}
+              <span className="span_highlight_text">Figma</span> designs into
+              pixel-perfect, responsive UIs, ensuring code quality and meeting
+              project timelines.
+              <br />
+              <br />
+              🚀 Integrated real-time stock market data and financial features
+              such as <span className="span_highlight_text">
+                IPO details
               </span>{" "}
-              for seamless{" "}
-              <span className="span_highlight_text">
-                {" "}
-                in-app KYC support{" "}
-              </span>{" "}
-              , facilitated NFC write operations to
-              <span className="span_highlight_text">
-                {" "}
-                enable NFC payments,{" "}
-              </span>{" "}
-              and implemented in-app and{" "}
-              <span className="span_highlight_text">
-                {" "}
-                push notification services{" "}
-              </span>{" "}
-              to enhance UX.
+              and <span className="span_highlight_text">market trends</span>{" "}
+              with seamless data updates using{" "}
+              <span className="span_highlight_text">Python</span> and{" "}
+              <span className="span_highlight_text">Django</span> for backend
+              integration.
               <br />
               <br />
-              🚀 Implemented{" "}
-              <span className="span_highlight_text"> deepLinking </span> to
-              seamlessly enable{" "}
-              <span className="span_highlight_text"> dynamic navigation </span>{" "}
-              within the Android and iOS app, via push notifications, and
-              external links, enhancing the overall user experience
+              🚀 Collaborated with the backend team to implement{" "}
+              <span className="span_highlight_text">RESTful APIs</span> and
+              ensure smooth integration
+              
               <br />
               <br />
-              🚀 Contributed to a RN App for enterprise dock management app for
-              robust{" "}
-              <span className="span_highlight_text">
-                {" "}
-                permission and role-based system,{" "}
-              </span>{" "}
-              implementing dynamic templated screens with precise user access
-              controls for screen rendering, utilizing
-              <span className="span_highlight_text">
-                {" "}
-                RN for web to support both web and mobile{" "}
-              </span>{" "}
-              using a single code-base
+              🚀 Led daily standups and sprint planning meetings, resolving
+              technical roadblocks and ensuring project timelines were met while
+              delivering high-quality features on time.
               <br />
               <br />
-              🚀 Contributed to develop Promotion post and profile features for
-              <span className="span_highlight_text">
-                {" "}
-                decentralized social media App,{" "}
-              </span>
-              a web3-based DeSo blockchain app
+              
             </h5>
           </div>
         </div>

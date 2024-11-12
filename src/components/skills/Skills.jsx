@@ -1,5 +1,5 @@
 import "./skills.css";
-import { skills } from "./../../data/data.js";
+import { skills } from "../../data/data.js";
 import SkillsCard from "./SkillsCard";
 
 const Skills = () => {

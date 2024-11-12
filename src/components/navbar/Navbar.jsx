@@ -21,7 +21,6 @@ const Navbar = () => {
           <a href="#about">RESUME</a>
           <a href="#skills">SKILLS</a>
           <a href="#projects">PROJECTS</a>
-          <a href="#certificate">CERTIFICATE</a>
         </div>
       </div>
 

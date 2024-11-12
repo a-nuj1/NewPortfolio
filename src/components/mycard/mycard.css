@@ -8,7 +8,7 @@
     justify-content: center;
 }
 .myPersonalCard {
-    background: rgba(48, 183, 220, 0.797);
+    background: rgba(1, 38, 48, 0.797);
     color: #fff;
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
     backdrop-filter: blur( 5px );
@@ -24,6 +24,11 @@
     height: 350px;
     animation: cardAnimation 1s ease-in-out;
   }
+
+a{
+  text-decoration: none;
+  cursor: pointer;
+}
   
   @keyframes cardAnimation {
     0% {
@@ -67,6 +72,7 @@
   
   .title-tag {
     display: flex;
+    color: navajowhite;
     align-items: center;
     gap: 50px;
     margin-top: 20px;
@@ -125,8 +131,8 @@
   }
   
   .profile-pic {
-    width: 150px;
-    border-radius: 50%;
+    width: 250px;
+    border-radius: 30%;
     animation: profileAnimation 1s ease-in-out;
 
   }

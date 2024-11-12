@@ -3,10 +3,12 @@
     color:#fff;
     padding: 60px 0;
 }
+
 .partrightAbout > p{
     font-size: 15px;
     line-height: 30px;
 }
+
 .partrightAbout > a{
     background-color: #9EC8B9;
     padding: 10px 40px;
@@ -18,9 +20,6 @@
     font-weight: bolder;
     margin-top: 50px;
 }
-
-
-
 
 @media screen and (max-width: 900px){
     .aboutcontainer{

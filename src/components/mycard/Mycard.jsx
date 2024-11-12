@@ -1,41 +1,38 @@
 import "./mycard.css";
+import portfolioImg from "../../bgre.png";
 
 const MyCard = () => {
   return (
     <div id="home" className="mycardContainer">
-      {/* <div class="wrapper">
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-      </div> */}
-
       <div className="myPersonalCard">
         <div className="title">
-          <h1>Piyush Sagar __</h1>
+          <h1>Anuj Kumar Gupta_</h1>
           <div className="title-tag">
             <img
               src="https://askgalore.nl/wp-content/uploads/2021/11/mern_hero.png"
               alt="MERN"
             />
             <div>
-              <p className="titleHead bg-yellow">{`Full-Stack JavaScript Developer`}</p>
+              <p className="titleHead bg-yellow">{`MERN Developer`}</p>
             </div>
           </div>
         </div>
         <div className="profilecard">
           <img
             className="profile-pic"
-            src="https://avatars.githubusercontent.com/u/62232366?v=4"
+            src={portfolioImg}
             alt="profile"
           />
-          <p>LinkedIn</p>
+          
+           <p><a
+            href="https://www.linkedin.com/in/anuj-kumar-gupta-631651227/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="linkedin-button"
+          >
+            LinkedIn
+          </a> 
+          </p>
         </div>
       </div>
     </div>

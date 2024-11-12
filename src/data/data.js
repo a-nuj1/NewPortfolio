@@ -26,7 +26,7 @@ export const skills = {
         },
         {
             title: 'GitHub',
-            logo: 'https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png'
+            logo: 'https://cdn-icons-png.flaticon.com/512/25/25231.png'
         },
         {
             title: 'Firebase',
@@ -43,10 +43,7 @@ export const skills = {
             title: 'React.Js',
             logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png'
         },
-        {
-            title: 'React Native',
-            logo: 'https://img.freepik.com/free-icon/android_318-674214.jpg?w=2000'
-        },
+        
         {
             title: 'Node.Js / Express.js',
             logo: 'https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png'
@@ -57,74 +54,61 @@ export const skills = {
         },
         {
             title: 'Tailwind CSS',
-            // logo: 'https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png'
             logo: 'https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png'
         },
-        {
-            title: 'NextJS',
-            // logo: 'https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png'
-            logo: 'https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp'
-        },
+        
     ]
 }
 
 export const projects = {
     allProject: [
         {
-            image: 'https://res.cloudinary.com/dkr75ykb4/image/upload/v1688570877/Screenshot_2023-07-05_205629_p3bysp.png',
-            title: 'LeetCode Lite ( Under Development )',
-            description: 'A LeetCode Clone website that have auth section to create users and reset password and most important it have real DSA problems which you can solve in this website absolutely like real LeetCode',
-            sourcecode: '',
-            livelink: 'https://leetcodelite.netlify.app/',
+            image: 'https://res.cloudinary.com/dvdfhripy/image/upload/v1731412801/Screenshot_2024-11-12_124136_h5cubs.png',
+            title: 'Photo Storage | LIVE site available',
+            description: 'Developed PhotoStorage, a social photo storage app allowing users to securely upload, store, and browse images. Implemented real-time uploads, organized galleries, and social features with an intuitive, responsive interface for seamless browsing on desktop and mobile.',
+            sourcecode: 'https://github.com/a-nuj1/photo_storage',
+            livelink: 'https://photo-storage-azure.vercel.app/',
             teckstack: ["React", "FireBase", "Tailwind CSS"]
         },
         {
-            image: 'https://img.freepik.com/free-vector/colorful-icons-set-concept_79603-1267.jpg',
-            title: 'Social Birds | Live Site N/A',
-            description: 'A social media Mobile application like twitter where user can post there birds(soo called tweet) and can do CURD operation',
-            sourcecode: '',
-            livelink: 'https://github.com/piyush362/page-not-found',
-            teckstack: ["React", "React Native", "Node.js"]
+            image: 'https://res.cloudinary.com/dvdfhripy/image/upload/v1731412795/Screenshot_2024-11-12_101453_okigjh.png',
+            title: 'Student-Compass | Live Site N/A',
+            description: 'Developed a fullstack student-centric learning platform using MERN stack to help students track their learning progress and manage all course materials in onecentralized location',
+            sourcecode: 'https://github.com/a-nuj1/student_compass',
+            livelink: 'https://github.com/a-nuj1/page-not-found',
+            teckstack: ["JavaScript", "React","Redux","Chakra UI","Node.js","Express.js","MongoDB"]
         },
         {
-            image: 'https://img.freepik.com/premium-vector/comic-speech-bubbles-with-text-quiz-night-neon-icon-symbol-sticker-tag-special-offer-label_100456-7641.jpg',
-            title: 'Quiz Menia | Live Site N/A',
-            description: 'A Mobile application that display question, fetching from API and user can solve those MCQ question and get real time score',
-            sourcecode: '',
-            livelink: 'https://github.com/piyush362/page-not-found',
-            teckstack: ["React", "React Native", "Node.js"]
+            image: 'https://plus.unsplash.com/premium_photo-1721955487786-76802cbf0812?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+            title: 'BaatCheet-Chatspace | (under development)',
+            description: 'Developed Baatcheet - ChatSpace, a full-stack web application that facilitates real-time messaging between users. Implemented features such as user search, group creation and management, and personalized profiles with bios and avatars, enhancing user interaction and community building.',
+            sourcecode: 'https://github.com/a-nuj1/BaatCheet-ChatSpace',
+            livelink: 'https://github.com/a-nuj1/page-not-found',
+            teckstack: ["JavaScript","React", "Material UI", "Redux" ,"Node.js", "Express.js", "MongoDB", "Socket.io"]
         },
         {
-            image: 'https://img.freepik.com/premium-vector/man-with-magnifying-glass-travel-book-tickets-hotel-room-apartment-reservation-service-transfer-transportation-traveling_48369-37531.jpg?w=360',
-            title: 'Make My Booking | Live Site N/A',
-            description: 'A simple mobile App in which users can see hotels by location and they can book rooms in hotels',
-            sourcecode: 'https://github.com/piyush362/page-not-found',
-            livelink: '',
-            teckstack: ["React", "React Native", "Node.js"]
+            image: 'https://res.cloudinary.com/dvdfhripy/image/upload/v1731412796/Screenshot_2024-11-12_172310_xrbqeh.png',
+            title: 'Write-Space | LIVE Site available',
+            description: 'Developed Write-Space, a dynamic blog application featuring secure user authentication, rich text editing, and comprehensive post management. Enabled users to easily create, edit, and manage formatted posts with titles, images, and intuitive navigation',
+            sourcecode: 'https://github.com/a-nuj1/daily_article',
+            livelink: 'https://daily-article.vercel.app/',
+            teckstack: ["React", "Tailwind CSS", "Node.js", "Express.js", "Appwrite"]
         },
         {
-            image: 'https://static.vecteezy.com/system/resources/thumbnails/012/494/550/small/inventory-control-system-concept-professional-manager-and-worker-are-checking-goods-and-stock-supply-inventory-management-with-goods-demand-vector.jpg',
-            title: 'INVENTORY MANAGEMENT SYSTEM | LIVE site available',
-            description: 'Inventory management system, able to perform CRUD operation to manage stocks',
-            sourcecode: 'https://docs.google.com/document/d/1GIpTldeZ7guKhRI6tvyfHzi7PbA8Mx-qteum3VdiB8U/edit?usp=sharing',
-            livelink: 'https://myinventorysys.netlify.app/',
-            teckstack: ["ReactJs", "Node.js", "mongoDB", "ExpressJs"]
-        },
-        {
-            image: 'https://img.freepik.com/free-vector/realistic-horizontal-cinema-movie-time-poster-with-3d-glasses-snacks-tickets-clapper-reel-blue-background-with-bokeh-vector-illustration_1284-77013.jpg',
-            title: 'MOVIE WORLD- Movies search | LIVE',
+            image: 'https://res.cloudinary.com/dvdfhripy/image/upload/v1731412803/Screenshot_2024-11-12_131140_whwlu2.png',
+            title: 'Movie World | LIVE site available',
             description: 'A simple React Page that fetch movies details from API and show it on card, users can search movies too.',
-            sourcecode: 'https://github.com/piyush362/movie-search',
-            livelink: 'https://movies-search23.netlify.app/',
+            sourcecode: 'https://github.com/a-nuj1/netflix_clone',
+            livelink: 'https://netflix-clone-nu-henna.vercel.app/',
             teckstack: ["ReactJs", "REST API", "Axios"]
         },
         {
-            image: 'https://res-2.cloudinary.com/under-the-hood-learning/image/upload/q_auto/v1/blog_images/MVC-Vanilla-JS.png',
-            title: 'VANILLA JS PROJECTS | LIVE',
-            description: 'Few project (Rock Paper Scissors, Tip calculator, Color Flipper) that is built using vanilla js ( i.e: without any javascript framework)',
-            sourcecode: 'https://github.com/piyush362/Basic-JavaScript-Projects',
-            livelink: 'https://piyush362.github.io/Basic-JavaScript-Projects/',
-            teckstack: ["JavaScript"]
+            image: 'https://static.vecteezy.com/system/resources/thumbnails/007/343/533/small/yellow-quiz-time-banner-with-comic-style-background-suitable-for-use-for-promotional-designs-vector.jpg',
+            title: 'Quiz-Time| LIVE',
+            description: 'Develop a dynamic quiz application that supports various question types, offering an interactive experience with real-time scoring and feedback. The goal was to create a versatile and user-friendly platform for assessments and learning.',
+            sourcecode: 'https://github.com/a-nuj1/quizFrontend',
+            livelink: 'https://quiz-frontend-mauve.vercel.app/',
+            teckstack: ["ReactJs", "REST API", "Node.js", "Express.js", "MongoDB"]
         },
     ],
     uiProject: [
