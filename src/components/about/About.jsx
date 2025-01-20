@@ -27,11 +27,11 @@ const About = () => {
           </p>
 
           <a
-            href="https://drive.google.com/file/d/1eATgvAcUFlUrqCK2WPFiGQE2wdGvoNy9/view"
+            href="https://drive.google.com/file/d/1ZnK_O3sFQH2nrJj3Q2nftXgOrkYHDtxS/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >
-            Download Resume
+            View Resume
           </a>
         </div>
       </div>
