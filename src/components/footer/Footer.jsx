@@ -19,7 +19,7 @@ const Footer = () => {
           <a href="https://x.com/_anuj01" target="_blank" rel="noreferrer">
             <p>X</p>
           </a>
-          <a href="https://leetcode.com/anuj01/" target="_blank" rel="noreferrer">
+          <a href="https://leetcode.com/u/Anuj_011/" target="_blank" rel="noreferrer">
             <p>LEETCODE</p>
           </a>
         </div>
