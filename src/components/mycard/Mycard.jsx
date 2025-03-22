@@ -1,5 +1,7 @@
 import "./mycard.css";
-import portfolioImg from "../../bgre.png";
+// import portfolioImg from "../../bgre.png";
+import portImg from "../../assests/cardImg.png"
+import mern from "../../assests/finalI.png";
 
 const MyCard = () => {
   return (
@@ -9,7 +11,7 @@ const MyCard = () => {
           <h1>Anuj Kumar Gupta_</h1>
           <div className="title-tag">
             <img
-              src="https://askgalore.nl/wp-content/uploads/2021/11/mern_hero.png"
+              src={mern}
               alt="MERN"
             />
             <div>
@@ -20,7 +22,7 @@ const MyCard = () => {
         <div className="profilecard">
           <img
             className="profile-pic"
-            src={portfolioImg}
+            src={portImg}
             alt="profile"
           />
           

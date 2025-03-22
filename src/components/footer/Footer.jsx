@@ -1,9 +1,9 @@
 import "./footer.css";
+import { SiLeetcode } from "react-icons/si";
 
 const Footer = () => {
   return (
     <div id="footer" className="footer-container">
-      {/* <h2>वो जन्नत ही क्या ? जो एक पल में मिल जाए । </h2> */}
       <div className="footeritem">
         <div className="footerlink">
           <a
@@ -19,9 +19,12 @@ const Footer = () => {
           <a href="https://x.com/_anuj01" target="_blank" rel="noreferrer">
             <p>X</p>
           </a>
+          <a href="https://leetcode.com/anuj01/" target="_blank" rel="noreferrer">
+            <p>LEETCODE</p>
+          </a>
         </div>
         {/* <div className="bar1-f"></div> */}
-        <p> © 2024 Anuj Gupta | Crafted with 💖. All rights reserved.</p>
+        <p> @ {new Date().getFullYear()} Anuj Gupta | Crafted with 💖| All rights reserved.</p>
       </div>
     </div>
   );
