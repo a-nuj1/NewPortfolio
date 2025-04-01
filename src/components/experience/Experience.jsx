@@ -31,8 +31,7 @@ const Experience = () => {
               pixel-perfect, responsive UIs, ensuring code quality and meeting
               project timelines.
               <br />
-              <br />
-              🚀 Integrated real-time stock market data and financial features
+              {/* 🚀 Integrated real-time stock market data and financial features
               such as <span className="span_highlight_text">
                 IPO details
               </span>{" "}
@@ -40,8 +39,7 @@ const Experience = () => {
               with seamless data updates using{" "}
               <span className="span_highlight_text">Python</span> and{" "}
               <span className="span_highlight_text">Django</span> for backend
-              integration.
-              <br />
+              integration. */}
               <br />
               🚀 Collaborated with the backend team to implement{" "}
               <span className="span_highlight_text">RESTful APIs</span> and

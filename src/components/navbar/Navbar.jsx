@@ -59,15 +59,6 @@ const Navbar = () => {
             <li className={styles.navbarItem}>
               <a
                 className={styles.navbarLink}
-                href="#about"
-                onClick={handleNavLinkClick}
-              >
-                RESUME
-              </a>
-            </li>
-            <li className={styles.navbarItem}>
-              <a
-                className={styles.navbarLink}
                 href="#skills"
                 onClick={handleNavLinkClick}
               >
@@ -83,15 +74,7 @@ const Navbar = () => {
                 PROJECTS
               </a>
             </li>
-            <li className={styles.navbarItem}>
-              <a
-                className={styles.navbarLink}
-                href="#certificate"
-                onClick={handleNavLinkClick}
-              >
-                CERTIFICATE
-              </a>
-            </li>
+            
           </ul>
         </nav>
       </div>

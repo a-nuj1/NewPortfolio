@@ -30,7 +30,7 @@ export const skills = {
         },
         {
             title: 'Firebase',
-            logo: 'https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png'
+            logo: 'https://brandeps.com/logo-download/F/Firebase-logo-02.png'
         },
         {
             title: 'mongoDB',
@@ -46,7 +46,7 @@ export const skills = {
         
         {
             title: 'Node.Js / Express.js',
-            logo: 'https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png'
+            logo: 'https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png'
         },
         {
             title: 'Redux',
@@ -63,6 +63,16 @@ export const skills = {
 export const projects = {
     allProject: [
         {
+            image: 'https://res.cloudinary.com/dvdfhripy/image/upload/v1743508008/Screenshot_2025-03-26_201422_ke4fct.png',
+            title: 'CodeCompete | Under Development',
+            description: 'Developing an interactive coding competition platform that allows users to participate in topic-specific contests,create private groups, and track their rankings locally and globally. The system ensures fairness with randomly assigned questions and flexible contest timing', 
+            sourcecode: 'https://github.com/a-nuj1/CP-Application-Frontend',
+            livelink: 'https://github.com/a-nuj1/not-found',
+            teckstack: ["React","Tailwind", " Material-UI", "Node.js", "Express.js", "MongoDB", "Socket.io"]  
+
+        },
+        {
+
             image: 'https://res.cloudinary.com/dvdfhripy/image/upload/v1731412801/Screenshot_2024-11-12_124136_h5cubs.png',
             title: 'Photo Storage | LIVE site available',
             description: 'Developed PhotoStorage, a social photo storage app allowing users to securely upload, store, and browse images. Implemented real-time uploads, organized galleries, and social features with an intuitive, responsive interface for seamless browsing on desktop and mobile.',
@@ -80,10 +90,10 @@ export const projects = {
         },
         {
             image: 'https://plus.unsplash.com/premium_photo-1721955487786-76802cbf0812?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-            title: 'BaatCheet-Chatspace | (under development)',
+            title: 'BaatCheet-Chatspace | LIVE Site available',
             description: 'Developed Baatcheet - ChatSpace, a full-stack web application that facilitates real-time messaging between users. Implemented features such as user search, group creation and management, and personalized profiles with bios and avatars, enhancing user interaction and community building.',
             sourcecode: 'https://github.com/a-nuj1/BaatCheet-ChatSpace',
-            livelink: 'https://github.com/a-nuj1/page-not-found',
+            livelink: 'https://baat-cheet-chat-space.vercel.app/',
             teckstack: ["JavaScript","React", "Material UI", "Redux" ,"Node.js", "Express.js", "MongoDB", "Socket.io"]
         },
         {
@@ -111,75 +121,4 @@ export const projects = {
             teckstack: ["ReactJs", "REST API", "Node.js", "Express.js", "MongoDB"]
         },
     ],
-    uiProject: [
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        },
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        },
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        }
-    ],
-    reactProject: [
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        },
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        },
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        }
-
-    ],
-    reactNativeProject: [
-        {
-            image: '/assests/images/project.png',
-            title: 'Social Birds',
-            description: 'A social media application ',
-            sourcecode: '',
-            livelink: ''
-        },
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        },
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        }
-
-    ]
 }
