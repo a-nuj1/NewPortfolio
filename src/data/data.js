@@ -67,9 +67,25 @@ export const projects = {
             title: 'CodeCompete | Under Development',
             description: 'Developing an interactive coding competition platform that allows users to participate in topic-specific contests,create private groups, and track their rankings locally and globally. The system ensures fairness with randomly assigned questions and flexible contest timing', 
             sourcecode: 'https://github.com/a-nuj1/CP-Application-Frontend',
-            livelink: 'https://github.com/a-nuj1/not-found',
+            livelink: 'https://cp-application-frontend.vercel.app/',
             teckstack: ["React","Tailwind", " Material-UI", "Node.js", "Express.js", "MongoDB", "Socket.io"]  
 
+        },
+        {
+            image: 'https://plus.unsplash.com/premium_photo-1721955487786-76802cbf0812?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+            title: 'BaatCheet-Chatspace | LIVE Site available',
+            description: 'Developed Baatcheet - ChatSpace, a full-stack web application that facilitates real-time messaging between users. Implemented features such as user search, group creation and management, and personalized profiles with bios and avatars, enhancing user interaction and community building.',
+            sourcecode: 'https://github.com/a-nuj1/BaatCheet-ChatSpace',
+            livelink: 'https://baat-cheet-chat-space.vercel.app/',
+            teckstack: ["JavaScript","React", "Material UI", "Redux" ,"Node.js", "Express.js", "MongoDB", "Socket.io"]
+        },
+        {
+            image:'https://github.com/a-nuj1/Git-Commit-Analyzer/blob/main/image.png?raw=true',
+            title: 'Git-Commit-Analyzer | LIVE site available',
+            description: 'Developed Git-Commit-Analyzer, a web application that analyzes Git commit messages to provide insights into project activity and developer contributions. The app visualizes commit data, helping teams understand their development patterns and improve collaboration.',
+            sourcecode: 'https://github.com/a-nuj1/Git-Commit-Analyzer',
+            livelink: 'https://git-commit-analyzer-yso9.vercel.app/',
+            teckstack: ["TypeScript", "Vite", "TailwindCSS"]
         },
         {
 
@@ -87,14 +103,6 @@ export const projects = {
             sourcecode: 'https://github.com/a-nuj1/student_compass',
             livelink: 'https://github.com/a-nuj1/page-not-found',
             teckstack: ["JavaScript", "React","Redux","Chakra UI","Node.js","Express.js","MongoDB"]
-        },
-        {
-            image: 'https://plus.unsplash.com/premium_photo-1721955487786-76802cbf0812?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-            title: 'BaatCheet-Chatspace | LIVE Site available',
-            description: 'Developed Baatcheet - ChatSpace, a full-stack web application that facilitates real-time messaging between users. Implemented features such as user search, group creation and management, and personalized profiles with bios and avatars, enhancing user interaction and community building.',
-            sourcecode: 'https://github.com/a-nuj1/BaatCheet-ChatSpace',
-            livelink: 'https://baat-cheet-chat-space.vercel.app/',
-            teckstack: ["JavaScript","React", "Material UI", "Redux" ,"Node.js", "Express.js", "MongoDB", "Socket.io"]
         },
         {
             image: 'https://res.cloudinary.com/dvdfhripy/image/upload/v1731412796/Screenshot_2024-11-12_172310_xrbqeh.png',
