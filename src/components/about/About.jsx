@@ -27,7 +27,7 @@ const About = () => {
           </p>
 
           <a
-            href="https://drive.google.com/file/d/16jPp4ptVJGZkWMhWpTFzh-c0qiNKqusu/view?usp=sharing"
+            href="https://drive.google.com/file/d/1krWUz6kYX7O505QDnAAHhzx0dhFRiopC/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >
